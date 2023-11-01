@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, My name is Po Wang
 
-<!--
-**Po20001011/Po20001011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Po Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Po20001011&show_icons=true&theme=radical) 
+## About Me 
+- 👾 Currently working on a Budget Tracker for iOS
+- 🌱 Currently learning Swift and iOS Development
+- 🔥 Looking for help with Advanced Swift Techniques
+- 🏫 Bachelor of Information of Technology in [RMIT](https://www.rmit.edu.au/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email: qaws3588@gmail.com
+
+⚡ Fun Fact: I can solve a Rubik's cube in under 1 minute.
+# This is still updating ....
+
+

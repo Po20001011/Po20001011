@@ -5,6 +5,7 @@
 - 👾 Currently working on a Budget Tracker for iOS
 - 🌱 Currently learning Swift and iOS Development
 - 🔥 Looking for help with Advanced Swift Techniques
+- Working on Full Stack Development at the moment
 - 🏫 Bachelor of Information of Technology in [RMIT](https://www.rmit.edu.au/)
 
 
